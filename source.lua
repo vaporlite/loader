@@ -26,6 +26,12 @@ local Window = Rayfield:CreateWindow({
     }
 })
 
+local a = Window:CreateTab("Output", 7072719490)
+local b = a:CreateSection("Oops...")
+
+local c = a:CreateLabel("if ur script does not load up after 3 secs:")
+local d = a:CreateLabel("something went wrong... Might be ur executor???")
+
 if game.PlaceId == 11346342371 then
 
     loadstring(game:HttpGet("https://raw.githubusercontent.com/vaporlite/vaporlite-hub/main/main.lua"))()
