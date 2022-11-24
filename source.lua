@@ -22,7 +22,7 @@ local Window = Rayfield:CreateWindow({
         FileName = "vaporartworks_key",
         SaveKey = false,
         GrabKeyFromSite = true,
-        Key = "https://pastebin.com/raw/ZZnFNvdT" --tostring(KeyLol)
+        Key = "https://pastebin.com/raw/r6QX1qja" --tostring(KeyLol)
     }
 })
 
