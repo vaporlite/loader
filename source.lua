@@ -48,4 +48,8 @@ elseif game.PlaceId == 10674429038 then
 
     loadstring(game:HttpGet("https://raw.githubusercontent.com/vaporlite/pickaxe-sim-infmoney/main/source_code.lua"))()
 
+elseif game.PlaceId == 11479042514 then
+    
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/vaporlite/lifting/main/main.lua"))()
+    
 end
